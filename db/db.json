@@ -1,0 +1,277 @@
+{
+  "Posts": [
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32",
+      "location": "Chennai, India",
+      "postImage": "https://picsum.photos/600/700?random=1",
+      "caption": "Learning React + Tailwind today! 🚀",
+      "likes": 128,
+      "isLiked": false,
+      "comments": [
+        {
+          "user": "arun_dev",
+          "comment": "Great work! 🔥"
+        },
+        {
+          "user": "sri_codes",
+          "comment": "Keep going! 💯"
+        }
+      ],
+      "time": "2 hours ago"
+    },
+    {
+      "id": "2",
+      "username": "foodlover",
+      "profilePic": "https://i.pravatar.cc/150?img=12",
+      "location": "Bangalore, India",
+      "postImage": "https://picsum.photos/600/700?random=2",
+      "caption": "Today’s lunch 😋❤️",
+      "likes": 450,
+      "isLiked": true,
+      "comments": [
+        {
+          "user": "ramya_food",
+          "comment": "Looks delicious! 😍"
+        }
+      ],
+      "time": "5 hours ago"
+    },
+    {
+      "id": "3",
+      "username": "travel_with_me",
+      "profilePic": "https://i.pravatar.cc/150?img=45",
+      "location": "Goa, India",
+      "postImage": "https://picsum.photos/600/700?random=3",
+      "caption": "Sunset vibes 🌅✨",
+      "likes": 823,
+      "isLiked": false,
+      "comments": [
+        {
+          "user": "explorer",
+          "comment": "Beautiful shot! 📸"
+        },
+        {
+          "user": "anu_journey",
+          "comment": "I want to go too!"
+        }
+      ],
+      "time": "1 day ago"
+    },
+    {
+      "id": "4",
+      "username": "fitness_pro",
+      "profilePic": "https://i.pravatar.cc/150?img=18",
+      "location": "Mumbai, India",
+      "postImage": "https://picsum.photos/600/700?random=4",
+      "caption": "Never miss leg day 💪🔥",
+      "likes": 267,
+      "isLiked": false,
+      "comments": [
+        {
+          "user": "gymlover",
+          "comment": "Respect bro! 🔥💯"
+        },
+        {
+          "user": "hari_fit",
+          "comment": "Great form!"
+        }
+      ],
+      "time": "3 hours ago"
+    }
+  ],
+  "Profile": [
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "tech_girlfg",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "1",
+      "username": "shalu",
+      "profilePic": "https://i.pravatar.cc/150?img=32"
+    }
+  ],
+  "Suggestion": [
+    {
+      "id": "2",
+      "username": "foodlover",
+      "profilePic": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "3",
+      "username": "travel_with_me",
+      "profilePic": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": "4",
+      "username": "fitness_pro",
+      "profilePic": "https://i.pravatar.cc/150?img=18"
+    },
+    {
+      "id": "5",
+      "username": "kavin_kaviya",
+      "profilePic": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": "6",
+      "username": "Av123123",
+      "profilePic": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": "7",
+      "username": "Pubby_Lover",
+      "profilePic": "https://i.pravatar.cc/150?img=45"
+    }
+  ],
+  "Story": [
+    {
+      "id": "1",
+      "username": "tech_girl",
+      "profilePic": "https://i.pravatar.cc/150?img=32",
+      "storyImage": "https://picsum.photos/600/700?random=1",
+      "time": "2 hours ago",
+      "seen": false
+    },
+    {
+      "id": "2",
+      "username": "foodlover",
+      "profilePic": "https://i.pravatar.cc/150?img=12",
+      "storyImage": "https://picsum.photos/600/700?random=2",
+      "time": "5 hours ago",
+      "seen": true
+    },
+    {
+      "id": "3",
+      "username": "travel_with_me",
+      "profilePic": "https://i.pravatar.cc/150?img=45",
+      "storyImage": "https://picsum.photos/600/700?random=3",
+      "time": "1 day ago",
+      "seen": false
+    },
+    {
+      "id": "4",
+      "username": "fitness_pro",
+      "profilePic": "https://i.pravatar.cc/150?img=18",
+      "storyImage": "https://picsum.photos/600/700?random=4",
+      "time": "3 hours ago",
+      "seen": false
+    }
+  ]
+}
