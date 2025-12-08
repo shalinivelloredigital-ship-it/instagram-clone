@@ -1,16 +1,66 @@
-# React + Vite
+Instagram Clone – React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a functional Instagram-like clone created using React + Vite. It includes core features such as user authentication, posting images, viewing posts in a feed, liking posts, and profile-based navigation.
 
-Currently, two official plugins are available:
+This setup provides a fast React development environment with HMR, ESLint configuration, and production-ready builds.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack Used
 
-## React Compiler
+This application was built using:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React + Vite
 
-## Expanding the ESLint configuration
+Firebase (Authentication, Firestore, Storage)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React Router DOM
+
+Modern CSS / Tailwind (if used)
+
+Axios / Fetch API (where applicable)
+
+Key Features
+
+User Login & Signup
+
+Image Upload (Posts)
+
+Homepage Feed
+
+Like & Comment System
+
+Profile Page
+
+Real-time Data Handling
+
+Responsive UI
+
+Available Vite Plugins Used
+
+@vitejs/plugin-react
+
+This provides Fast Refresh support during development.
+
+Project Folder Structure
+/src
+ ├─ assets/           # images/icons
+ ├─ components/       # reusable components like PostCard, Navbar, Stories
+ ├─ pages/            # Feed, Login, Signup, Profile, etc.
+ ├─ firebase/         # firebase config files
+ ├─ context/          # auth or app context (if applicable)
+ ├─ App.jsx
+ └─ main.jsx
+
+/public               # static files
+
+Getting Started
+Install Dependencies
+npm install
+
+Run Development Server
+npm run dev
+
+Build Production Version
+npm run build
+
+Preview Production Build
+npm run preview
